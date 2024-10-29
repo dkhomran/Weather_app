@@ -67,7 +67,7 @@ export default function HomeScreen() {
         <StatusBar style="light" />
 
         <Image
-            source={require('../assets/images/bg.png')}
+            source={require('../assets/images/bg17.jpg')}
             style={{ position: 'absolute', height: '100%', width: '100%' }}
             blurRadius={50}
         />
