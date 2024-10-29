@@ -60,17 +60,8 @@ Weather_app est une application mobile de météo réalisée avec **React Native
    ```
 4. **Lancez l'application** :
     - 
-    - **Avec Expo** :
       ```bash
-      npm start
-      ```
-    - **Pour Android** :
-      ```bash
-      npm run android
-      ```
-    - **Pour iOS** :
-      ```bash
-      npm run ios
+      npx expo start
       ```
 ---
 
