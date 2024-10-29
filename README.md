@@ -108,20 +108,14 @@ https://api.weatherapi.com/v1/forecast.json?key=VOTRE_CLE_API&q=Paris&days=7
 Voici quelques captures d'écran de l'application pour illustrer l'interface utilisateur et les fonctionnalités :
 
 ### Page d'accueil avec recherche de ville
-<<<<<<< HEAD
+
 <div style="display: flex; flex-wrap: wrap; gap: 2px">
     <img src="https://imgur.com/ypBuC0P.jpg" alt="Page d'accueil" style="width: 200px; margin: 10px;"> 
     <img src="https://imgur.com/uaZ5e65.jpeg" alt="Page d'accueil" style="width: 200px; margin: 10px;">
     <img src="https://imgur.com/oSL8b2j.jpeg" alt="Page d'accueil" style="width: 200px; margin: 10px;">
     <img src="https://imgur.com/bu0Ko7Z.jpeg" alt="Page d'accueil" style="width: 200px; margin: 10px;">
 </div>
-=======
-![Page d'accueil](https://i.imgur.com/6pPMjZg.jpeg) <!-- Remplacez par l'URL de votre capture d'écran -->
 
-### Détails de la météo
-![Détails de la météo](url_de_votre_capture_ecran_details) <!-- Remplacez par l'URL de votre capture d'écran -->
-
->>>>>>> 9d4b4c406175d6efc5afe0235d0b83deefea87e2
 ---
 
 ## 🤝 Contribution
